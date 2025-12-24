@@ -1,4 +1,4 @@
-# Hi there    大家好
+# Hi there    大家好!hahaha
 Welcome to my GitHub profile!欢迎来到我的GitHub简介！  
 I'm a **Data & IT Professional   数据和IT专业人员** focused on data governance, cross-database ETL development, and SQL performance optimization. Currently building my portfolio and exploring open-source data tools.我是一名**数据和IT专业人员**，专注于数据治理，跨数据库ETL开发和SQL性能优化。目前正在构建我的作品集并探索开源数据工具。
 
